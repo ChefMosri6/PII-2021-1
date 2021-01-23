@@ -1,0 +1,16 @@
+1. git branch
+2. create branch 
+    > git branch branch_Name
+3. Change to other branch
+    git checkout new_branch_Name
+4. Add Change
+    > git add .
+5. Commit changes
+    > git Commit -m "adding Commit changes"
+6. Push our changes
+    > git push origin branch_Name
+7. pull changes
+    > git pull
+8. Merge Actual branch Changes with other branch 
+    > git merge branch_Name
+9.         
