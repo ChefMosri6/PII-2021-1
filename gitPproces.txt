@@ -1,6 +1,7 @@
 1. git branch
 2. create branch 
     > git branch branch_Name
+    >git branch     
 3. Change to other branch
     git checkout new_branch_Name
 4. Add Change
@@ -13,4 +14,9 @@
     > git pull
 8. Merge Actual branch Changes with other branch 
     > git merge branch_Name
-9.         
+9.    git config --global user.name “[firstname lastname]”
+    >set a name that is identifiable for credit when review version history
+10. git config --global user.email “[valid-email]”
+    >set an email address that will be associated with each history marker
+11.git config --global color.ui auto
+    >set automatic command line coloring for Git for easy reviewing    
