@@ -3,3 +3,53 @@ body{
     font-family: 'Roboto Mono', monospace;
 
 }
+
+body > header{
+    text-align: center;
+    padding: 100px;
+    background-color: darkslateblue;
+    color:blue
+}
+
+body > nav {
+flex: 1;
+background-color: chartreuse;
+padding: 20px;
+}
+
+body >nav > ul {
+    list-style: none;
+}
+body >nav > ul> li{
+    display: inline;
+    padding: 25px;
+}
+
+body >nav > ul> li:hover{
+    background-color: darkcyan;
+    color: crimson;
+    font-size: 17px;
+    border-radius: 5px;
+}
+section {
+    text-align: center;
+}
+
+body > section >div > div.main-text{
+    text-align: justify;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+article#secondary-text{
+    color: black;
+}
+
+footer{
+    background-color:coral;
+    color:darkgrey;
+    text-align: center;
+ font:size 5px;
+    border-radius:5px;
+
+}
