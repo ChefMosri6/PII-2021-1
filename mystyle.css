@@ -1,19 +1,25 @@
 body{
-    background-color: darkred;
+    background-color: rgb(91, 31, 202);
     font-family: 'Roboto Mono', monospace;
+    color: rgb(206, 102, 22);
 
 }
 
 body > header{
     text-align: center;
     padding: 100px;
-    background-color: darkslateblue;
+    background-color: rgb(129, 208, 226);
     color:blue
+}
+
+body > header > image{
+    width: 50%;
+
 }
 
 body > nav {
 flex: 1;
-background-color: chartreuse;
+background-color: rgb(12, 11, 11);
 padding: 20px;
 }
 
@@ -27,7 +33,7 @@ body >nav > ul> li{
 
 body >nav > ul> li:hover{
     background-color: darkcyan;
-    color: crimson;
+    color: rgb(50, 20, 220);
     font-size: 17px;
     border-radius: 5px;
 }
@@ -42,7 +48,7 @@ body > section >div > div.main-text{
 }
 
 article#secondary-text{
-    color: black;
+    color: rgb(206, 102, 22);
 }
 
 footer{
@@ -52,4 +58,15 @@ footer{
  font:size 5px;
     border-radius:5px;
 
+}
+
+body >nav > ul >div >div.redes-sociales{
+    position: absolute;
+    position: absolute;
+    top: 50px;
+    right: 0px;
+
+
+    
+  
 }
