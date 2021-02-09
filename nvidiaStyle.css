@@ -33,7 +33,11 @@ body > nav {
         width: 100px;
         height: auto;
     } 
-}
+
+    body{
+        background-color: green;
+        color: honeydew;
+    }
         
         
 
