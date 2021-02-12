@@ -25,17 +25,23 @@ padding: 20px;
 
 body >nav > ul {
     list-style: none;
+    text-decoration:none !important;
+    cursor:pointer; 
 }
 body >nav > ul> li{
     display: inline;
     padding: 25px;
+    text-decoration:none !important;
+    cursor:pointer; 
 }
 
 body >nav > ul> li:hover{
     background-color: darkcyan;
-    color: rgb(50, 20, 220);
+    color: orangered;
     font-size: 17px;
     border-radius: 5px;
+    text-decoration:none !important;
+    cursor:pointer; 
 }
 section {
     text-align: center;
