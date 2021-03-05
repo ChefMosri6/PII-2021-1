@@ -9,4 +9,4 @@ def index():
 def home():
     return dict(name = "bottle v0.12.19")
 
-run(host= "localhost", port=3000, debug=True)
+run(host= "localhost", port=3000, debug=True, reloader=True)
