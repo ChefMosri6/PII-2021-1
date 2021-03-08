@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <meta charset="UTF-8">
+    <title>PII-221-2UNIVA{{ index}}</title>
+   <link rel="stylesheet" href="mystyle.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <img src="Imagenes/univa-logo-png.png" alt="logouniva">
+        <h1>Project PII - UNIVA 2021</h1>
+      
+
+    </header>
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li><a  href="Nvidia.html"style="color:rgb(206, 102, 22);"NOTE> Nvidia</li></a>
+            <li> <a href="radeon.html"style="color:rgb(206, 102, 22);"NOTE>Radeon</li></a>
+            <li> <a href="{{ }}"style="color:rgb(206, 102, 22);"NOTE>Contact</li></a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <li>Facebook</li>
+            <li>Telegram</li>
+            <li>Youtube</li>
+            <li>Instagram</li>
+            <div class="redes-sociales">
+                      
+         </div>             
+        </ul>
+
+    </nav>
+    <section>
+        <div>
+            <h2>Home Page</h2>
+            <div class="main-text">
+
+            </div>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia veniam sequi cum nulla magnam minus enim vero eos? Accusamus, consectetur assumenda totam ea quibusdam ab soluta aspernatur repellendus odit facilis.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia veniam sequi cum nulla magnam minus enim vero eos? Accusamus, consectetur assumenda totam ea quibusdam ab soluta aspernatur repellendus odit facilis
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia veniam sequi cum nulla magnam minus enim vero eos? Accusamus, consectetur assumenda totam ea quibusdam ab soluta aspernatur repellendus odit facilis
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia veniam sequi cum nulla magnam minus enim vero eos? Accusamus, consectetur assumenda totam ea quibusdam ab soluta aspernatur repellendus odit facilis
+                fon
+            </p>
+            <figure>
+                <img src="Imagenes\Logorock.png" alt="Logorock">
+                <figcaption>img.1.0 -Rock logo inges Band</figcaption>
+      </figure>
+        </div>
+        <article id="secondary-text">
+        
+            <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus reiciendis nam sint ab sequi numquam eos voluptatem aut beatae deserunt, est accusantium itaque facere ullam placeat voluptatum sapiente quas necessitatibus!</h3>
+        </article>
+    </section>
+    <footer>
+        <h4>Copyright &copy; Univa 2021 Christian Mosri</h4>
+    </footer>
+</body>
+ 
+</html>
