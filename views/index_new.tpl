@@ -3,7 +3,7 @@
  
 <head>
     <meta charset="UTF-8">
-    <title>PII-221-2UNIVA{{ index}}</title>
+    <title>PII-221-2UNIVA {{index}}</title>
    <link rel="stylesheet" href="mystyle.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap" rel="stylesheet">
@@ -12,15 +12,13 @@
     <header>
         <img src="Imagenes/univa-logo-png.png" alt="logouniva">
         <h1>Project PII - UNIVA 2021</h1>
-      
-
     </header>
     <nav>
         <ul>
             <li>Home</li>
             <li><a  href="Nvidia.html"style="color:rgb(206, 102, 22);"NOTE> Nvidia</li></a>
             <li> <a href="radeon.html"style="color:rgb(206, 102, 22);"NOTE>Radeon</li></a>
-            <li> <a href="{{ }}"style="color:rgb(206, 102, 22);"NOTE>Contact</li></a>
+            <li> <a href="contact.html"style="color:rgb(206, 102, 22);"NOTE>Contact</li></a>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <li>Facebook</li>
             <li>Telegram</li>
