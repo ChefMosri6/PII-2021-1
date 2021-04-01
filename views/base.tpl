@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>PII-221-2UNIVA</title>
-   <link rel="stylesheet" href="/static/Css/mystyle.css">
+    
     <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap" rel="stylesheet">
 </head>
 <body>
     <header>
-        <img src="/static/Css/Imagenes/univa-logo-png.png" alt="logouniva">
+        
         <h1>Project PII - UNIVA 2021</h1>
     </header>
     <nav>
@@ -31,7 +31,7 @@
 
     </nav>
     <section>
-        {{name}}
+        {{!base}}
     </section>
     <footer>
         <h4>Copyright &copy; Univa 2021 Christian Mosri</h4>

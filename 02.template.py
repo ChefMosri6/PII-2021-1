@@ -1,8 +1,5 @@
-from bottle import run, route, template, view,static_file
+from bottle import run, route, template, view
 
-@route('/static/<filename:path>')
-def send_static(filename):
-    return static_file(filename, route = './static/')
 @route('/')
 def index():
     return name("welcome to {{ name}}, a python framewrok", name = "bottle version 0.12.19")
