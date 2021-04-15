@@ -2,7 +2,7 @@
 <section>
                 
  <div>
-    <h2>Home Page{{name}}</h2>
+    <h2>Home Page{{index}}</h2>
     <div class="main-text">
 
     </div>

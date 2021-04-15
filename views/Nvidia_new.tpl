@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+%rebase('base.tpl')
     <head>
         <title>{{nvidia}}</title>
         <meta charset="UTF-8">

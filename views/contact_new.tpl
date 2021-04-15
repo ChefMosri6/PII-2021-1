@@ -1,5 +1,5 @@
 %rebase("base.tpl")
-<h1>{{ name}}</h1>
+<h1>{{contact}}</h1>
 <br><br><br><br><h2>Nuestra ubicacion</h2>
 <br><br><br>
 <img src="Imagenes\locacion.png" alt="locacion">
