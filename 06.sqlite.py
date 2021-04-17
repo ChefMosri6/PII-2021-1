@@ -6,8 +6,10 @@ import sys
 @route('/')
 def index():
     # database connection
-    connection = sqlite3.connect('./sqlite-tools-win32-x86-3350200/univa.db')
+    connection = sqlite3.connect('./sqlite/univa.db')
     mycursor = connection.cursor()
-    raws = mycursor.execute('SELECT * FROM students;')
-    return template('index.tpl', raws=raws)
+    rows = mycursor.execute('SELECT * FROM students;')
+    return template('index_new_copy.tpl', rows=rows, index="UNIVA.DB-SQlite" )
     mycursor.close()
+    
+run(host= 'localhost', port = 3000, debug = True, reloader = True)
