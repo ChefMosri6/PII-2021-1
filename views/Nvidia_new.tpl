@@ -3,11 +3,11 @@
         <title>{{nvidia}}</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="nvidiaStyle.css" rel="stylesheet">
+        <link rel="stylesheet" href="/static/css/nvidiaStyle.css">
     </head>
     <body>
         <header>
-            <img src="Imagenes\nvidia-logo.png" alt="logo-nvidia">
+            <img src="/static/nvidia-logo.png" alt="">
         </header>
     
             <nav>
@@ -22,7 +22,7 @@
             <div class="tarjetas-video">
             
                     <div>
-                        <p style="float:left"> <img src="Imagenes\nivida-1070.png" alt="tarjeta-1070"></p>
+                        <p style="float:left"> <img src="/static/nivida-1070.png" alt="tarjeta-1070"></p>
                         <br><br><br><br><br><br><br><br>
                     <p>    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia veniam sequi cum nulla magnam minus enim vero eos? Accusamus, consectetur assumenda totam ea quibusdam ab soluta aspernatur repellendus odit facilis.
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia veniam sequi cum nulla magnam minus enim vero eos? Accusamus, consectetur assumenda totam ea quibusdam ab soluta aspernatur repellendus odit facilis
@@ -33,7 +33,7 @@
                    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
         
                    <div>
-                    <p  style="float: left;"> <img src="Imagenes\nvidia-2080.png" alt="tarjeta-2080"></p>
+                    <p  style="float: left;"> <img src="/static/nvidia-2080.png" alt="tarjeta-2080"></p>
                     <br><br><br>
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia veniam sequi cum nulla magnam minus enim vero eos? Accusamus, consectetur assumenda totam ea quibusdam ab soluta aspernatur repellendus odit facilis.
@@ -48,7 +48,7 @@
                     <div>
 
                 
-                <p style="float: left;"><img src="Imagenes\nivida-red.png" alt="tarjeta-red"></p>
+                <p style="float: left;"><img src="/static/nivida-red.png" alt="tarjeta-red"></p>
                <p>
                    
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia veniam sequi cum nulla magnam minus enim vero eos? Accusamus, consectetur assumenda totam ea quibusdam ab soluta aspernatur repellendus odit facilis.
