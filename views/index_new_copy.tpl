@@ -22,6 +22,12 @@
     <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus reiciendis nam sint ab sequi numquam eos voluptatem aut beatae deserunt, est accusantium itaque facere ullam placeat voluptatum sapiente quas necessitatibus!</h3>
     </article>
     </section>
+    %for row in rows:
+   <ul>
+       <li>{{ row[0] }}</li>
+       <li>{{ row[1] }}</li>
+       <li>{{ row[2] }}</li>
+   </ul>
+   %end
 
-    
         
