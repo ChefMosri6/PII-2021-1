@@ -16,7 +16,7 @@ def index_new_copy():
 @route('/contact_new')
 @view('contact_new')
 def contact_new():
-    return dict(contact  = "contact")
+    return dict(contact  = "Ubicacion y contactos")
 
 @route('/nvidia_new')
 @view('nvidia_new')

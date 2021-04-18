@@ -4,6 +4,11 @@
 <br><br><br>
 <link rel="stylesheet" href="/static/css/contactoStyle.css">
 <img src="/static/locacion.png" alt="">
+<main>
+    <div class="header-img"></div>
+</main>
+
+
 <br><br><br>
 <h3>Direccion: Paseo Boulevard andares # 45 int 8 </h3>
 <h2>Telefono: 3345297895</h2>

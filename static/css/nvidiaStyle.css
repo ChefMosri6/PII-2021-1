@@ -1,8 +1,8 @@
 body > header{
-    text-align: left;
-    padding: 50px;
-    background-color: rgb(5, 5, 5);
-    color: black;
+    width: 120%;
+    height: 100px;
+    background: url('https://cdn.wccftech.com/wp-content/uploads/2015/06/AMD-Nvidia-Feature-635x357.jpg');
+    background-size: auto;
 }
 
 body > nav {

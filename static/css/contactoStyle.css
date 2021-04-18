@@ -1,13 +1,15 @@
 body > header{
-    text-align: center;
-    padding: 100px;
-    background-color:black;
-    color:blue
+    width: 120%;
+    height: 100px;
+    background: url('https://cdn.wccftech.com/wp-content/uploads/2015/06/AMD-Nvidia-Feature-635x357.jpg');
+    background-size: auto;
 }
 
-body > header > image{
-    width: 50%;
 
+img{
+    border-radius: 8px; 
+    padding: 100px;
+    width: 900px; 
 }
 
 body{
@@ -32,8 +34,17 @@ body > nav {
     }
     
     body >nav > ul> li:hover{
-        background-color: darkcyan;
+        background-color: rgb(228, 238, 238);
         color:#FF0000;
         font-size: 17px;
         border-radius: 5px;
     }
+
+    footer{
+    background-color:red;
+    color:black;
+    text-align: center;
+ font:size 5px;
+    border-radius:5px;
+
+}

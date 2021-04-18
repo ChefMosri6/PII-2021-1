@@ -9,7 +9,11 @@ body > header{
     text-align: center;
     padding: 100px;
     background-color: rgb(129, 208, 226);
-    color:blue
+    color:white;
+    width: 120%;
+    height: 100px;
+    background: url('https://cdn.wccftech.com/wp-content/uploads/2015/06/AMD-Nvidia-Feature-635x357.jpg');
+    background-size: auto;
 }
 
 body > header > image{
@@ -59,7 +63,7 @@ article#secondary-text{
 
 footer{
     background-color:coral;
-    color:darkgrey;
+    color:black;
     text-align: center;
  font:size 5px;
     border-radius:5px;

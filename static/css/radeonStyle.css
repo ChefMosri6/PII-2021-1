@@ -21,7 +21,7 @@ body > header > image{
 
 body > nav {
 flex: 1;
-background-color:white
+background-color:white;
 padding: 20px;
 }
 

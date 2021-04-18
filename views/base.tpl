@@ -12,7 +12,7 @@
 <body>
     <header>
         
-        <h1>Project PII - UNIVA 2021</h1>
+        <h1>El mundo de tarjetas de video</h1>
     </header>
     <nav>
         <ul>
